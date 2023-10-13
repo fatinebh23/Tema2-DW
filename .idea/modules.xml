@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Book-Stream/Book-Stream.iml" filepath="$PROJECT_DIR$/Book-Stream/Book-Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjPropuesto_Hotel_PR_Funcional/EjPropuesto_Hotel_PR_Funcional.iml" filepath="$PROJECT_DIR$/EjPropuesto_Hotel_PR_Funcional/EjPropuesto_Hotel_PR_Funcional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermedias/Intermedias.iml" filepath="$PROJECT_DIR$/Intermedias/Intermedias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperacionesFinales/OperacionesFinales.iml" filepath="$PROJECT_DIR$/OperacionesFinales/OperacionesFinales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tema2-DW.iml" filepath="$PROJECT_DIR$/Tema2-DW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producto/producto.iml" filepath="$PROJECT_DIR$/producto/producto.iml" />
+    </modules>
+  </component>
+</project>
